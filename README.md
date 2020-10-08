@@ -20,6 +20,11 @@ A command-line application that dynamically generates a professional README.md f
 [![npm version](https://badge.fury.io/js/inquirer.svg)](https://badge.fury.io/js/inquirer) 
 [![npm version](https://badge.fury.io/js/util.svg)](https://badge.fury.io/js/util) 
 
+## User Story
+`AS A developer
+I WANT a README generator
+SO THAT can quickly create a professional README for a new project`
+
 
 ## Usage 
  `node index.js`
