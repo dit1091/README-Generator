@@ -1,6 +1,7 @@
 # README-Generator
 
-Application will query user for information, then build a README.md file for their project.
+A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. 
+
 ## Table of Contents 
 * [Installation](#installation) 
 * [Badges](#badges) 
