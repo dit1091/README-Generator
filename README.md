@@ -30,4 +30,4 @@ Application will query user for information, then build a README.md file for the
 
 
 ## Questions 
- ![Dannette Tejeda] Dannette Tejeda  (dit1091)  [dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
+ ![Dannette Tejeda] http://www.shrinkpictures.com/processed/phpVzgd0G_c2PM.jpg Tejeda  (dit1091)  [dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
