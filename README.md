@@ -13,7 +13,6 @@ A command-line application that dynamically generates a professional README.md f
 ## Installation 
  `npm install` 
 
-
 ## Badges 
 [![npm version](https://badge.fury.io/js/axios.svg)](https://badge.fury.io/js/axios) 
 [![npm version](https://badge.fury.io/js/dotenv.svg)](https://badge.fury.io/js/dotenv) 
@@ -23,7 +22,8 @@ A command-line application that dynamically generates a professional README.md f
 
 
 ## Usage 
- `node index.js` 
+ `node index.js`
+ ![DEMO](https://gifyu.com/image/6CFd)
 
 
 ## License 
