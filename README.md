@@ -30,4 +30,4 @@ Application will query user for information, then build a README.md file for the
 
 
 ## Questions 
- ![Dannette Tejeda](https://avatars2.githubusercontent.com/u/58275699?v=4&s=48)  Dannette Tejeda  (dit1091)  [dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
+ ![Dannette Tejeda] Dannette Tejeda  (dit1091)  [dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
