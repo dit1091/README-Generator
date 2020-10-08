@@ -5,7 +5,7 @@ const api = require("./utils/api.js");
 const markdown = require("./utils/generateMarkdown.js");
 
 const writeFileAsync = util.promisify(fs.writeFile);
-
+// array of questions for user
 const questions = [
   {
     type: "input",
@@ -67,6 +67,7 @@ async function verifyOverwrite(fileName) {
   }]);
 }
 
+// function to write README file
 async function writeToFile(filename, answers) {
   let writeOkay = true;
 
@@ -83,13 +84,14 @@ async function writeToFile(filename, answers) {
   }
 };
 
+// function to initialize program
 async function init() {
   console.log("\n *** Welcome to the README Generator *** \n");
   try {
     const answers = await inquirer.prompt(questions);
     await api.getUserInfo(answers.userName.trim())
     .finally(() => {
-      const readme = `./readme/README-${answers.repoName.trim()}.md`;
+      const readme = `./${answers.repoName.trim()}.md`;
       writeToFile(readme, answers);
     });
   }
@@ -98,4 +100,5 @@ async function init() {
   }
 };
 
+// function call to initialize program
 init();
