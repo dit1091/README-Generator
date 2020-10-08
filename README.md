@@ -23,7 +23,7 @@ A command-line application that dynamically generates a professional README.md f
 
 ## Usage 
  `node index.js`
- ![DEMO](https://gifyu.com/image/6CFd)
+ ![DEMO](Demo.gif)
 
 
 ## License 
