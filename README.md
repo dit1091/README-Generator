@@ -30,4 +30,4 @@ Application will query user for information, then build a README.md file for the
 
 
 ## Questions 
-https://i.ibb.co/bd4tYV7/profile.png (dit1091)  [dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
+![Dannette Tejeda](https://i.ibb.co/bd4tYV7/profile.png) (dit1091)  [dannettetejeda@gmail.com](mailto:dannettetejeda@gmail.com)
