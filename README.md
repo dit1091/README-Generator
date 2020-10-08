@@ -22,7 +22,9 @@ A command-line application that dynamically generates a professional README.md f
 
 
 ## Usage 
+ 'npm install'
  `node index.js`
+ 
  ![DEMO](Demo.gif)
 
 
